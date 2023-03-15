@@ -90,33 +90,15 @@ Untested on mac, though theoretically the same should apply to mac as windows - 
 	
 	[!] To install the g extention, copy and paste the following into a terminal:
 	*
-	$ git clone --branch g-ex https://github.com/Sifter-Ex/gPlug && cd gPlug && bash plug-G.sh && gSifter
+	$ git clone --branch g-ex https://github.com/whiterabb17/gPlug && cd gPlug && bash plug-G.sh && gSifter
 
 ---------------------------------------------------------------------------------------------------------------------
 
 # Sifter
 	
-Sifter can be found <a href="https://github.com/s1l3nt78/sifter">here</a>
+Sifter can be found <a href="https://github.com/whiterabb17/sifter">here</a>
 
 ----------------------------------------------------------------------------------------------------------------------
-
-# Other Projects
-<br />
-All information on projects in development can be found <a href="https://s1l3nt78.github.io">here</a>. 
-<br />
-For any requests or ideas on current projects please submit an issue request to the corresponding tool.
-<br />
-For ideas or collaboration requests on future projects., contact details can be found on the page.
-<br />
-<br />
-<em>GitHub Pages can be found here.
-<br />
-- <a href="https://s1l3nt78.github.io/MkCheck">MkCheck</a> = MikroTik Router Exploitation Tool
-<br />
-- <a href="https://s1l3nt78.github.io/TigerShark">TigerShark</a> = Multi-Tooled Phishing Framework</em>
-<br />
-<br />
-<br />
 
 	  <!--#############           VGhlIERlYWQgQnVubnkgQ29sbGVjdGl2ZQ==           #############--!>
 	  
