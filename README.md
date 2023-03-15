@@ -56,9 +56,9 @@
 
 # Main GUI Screen:
 <p>
-<img align="center" src="https://github.com/Sifter-Ext/g/raw/g-ex/.vs/main.png">
+<img align="center" src="https://github.com/whiterabb17/gPlug/raw/main/.vs/main.png">
 <!--	<br />
-<img align="center" src="https://raw.githubusercontent.com/s1l3nt78/sifter/master/docs/menu.png">
+<img align="center" src="https://raw.githubusercontent.com/whiterabb17/sifter/master/docs/menu.png">
 --></p>
 
 ----------------------------------------------------------------------------------------------------------------------
